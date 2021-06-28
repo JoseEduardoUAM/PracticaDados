@@ -4,5 +4,5 @@ Practica realizada en el lenguaje de programación Java que permite mostrar las 
 
 >Nota: La clase "Prueba" es el programa principal donde se puede modificar el número de caras de los dados.
 
-##Requerimientos
+## Requerimientos
 - Java JDK 15
